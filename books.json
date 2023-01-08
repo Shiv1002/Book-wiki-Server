@@ -1,0 +1,128 @@
+{
+    "genre": [
+        "Fantasy",
+        "Adventure",
+        "Shonen",
+        "Romance",
+        "Horror"
+    ],
+    "bookList": [
+        {
+            "srno": 1,
+            "Name": "Harry Potter",
+            "Thumbnail": "Harry Potter-1.jpg",
+            "Author": "J.K. Rowling",
+            "Genre": "Fantasy",
+            "Publisher": "Bloomsbury Publishing(UK)",
+            "Description": "Harry Potter is a series of seven fantssy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic and subjugate all wizards and Muggles (non-magical people).",
+            "link": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice?ac=1&from_search=true&qid=qvieLlISY0&rank=2"
+        },
+        {
+            "srno": 2,
+            "Name": "Harry Potter",
+            "Author": "J.K. Rowling",
+            "Thumbnail": "Harry Potter-2.jpg",
+            "Genre": "Fantasy",
+            "Publisher": "Bloomsbury Publishing(UK)",
+            "Description": "Harry Potter and the Chamber of Secrets is a fantasy novel written by British author J. K. Rowling and the second novel in the Harry Potter series. The plot follows Harry's second year at Hogwarts School of Witchcraft and Wizardry, during which a series of messages on the walls of the school's corridors warn that the \"Chamber of Secrets\" has been opened and that the \"heir of Slytherin\" would kill all pupils who do not come from all-magical families. These threats are found after attacks that leave residents of the school petrified. Throughout the year, Harry and his friends Ron and Hermione investigate the attacks.",
+            "link": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice?ac=1&from_search=true&qid=qvieLlISY0&rank=2"
+        },
+        {
+            "srno": 3,
+            "Name": "Harry Potter-3",
+            "Author": "J.K. Rowling",
+            "Thumbnail": "Harry Potter-3.jpg",
+            "Genre": "Fantasy",
+            "Publisher": "Bloomsbury Publishing(UK)",
+            "Description": "Harry Potter and the Prisoner of Azkaban is a fantasy novel written by British author J. K. Rowling and is the third in the Harry Potter series. The book follows Harry Potter, a young wizard, in his third year at Hogwarts School of Witchcraft and Wizardry. Along with friends Ronald Weasley and Hermione Granger, Harry investigates Sirius Black, an escaped prisoner from Azkaban, the wizard prison, believed to be one of Lord Voldemort's old allies.",
+            "link": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice?ac=1&from_search=true&qid=qvieLlISY0&rank=2"
+        },
+        {
+            "srno": 4,
+            "Name": "Pride and Prejudice(1813)",
+            "Author": "Jane Austen",
+            "Thumbnail": "Pride and Prejudice(1813).png",
+            "Genre": "Romance",
+            "Publisher": "",
+            "Description": "First published in 1813, Pride and Prejudice has consistently been Jane Austen's most popular novel. It portrays life in the genteel rural society of the day, and tells of the initial misunderstandings and later mutual enlightenment between Elizabeth Bennet (whose liveliness and quick wit have often attracted readers) and the haughty Darcy.The title Pride and Prejudice refers (among other things) to the ways in which Elizabeth and Darcy first view each other.",
+            "link": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice?ac=1&from_search=true&qid=qvieLlISY0&rank=2"
+        },
+        {
+            "srno": 5,
+            "Name": "The Alchemist",
+            "Author": "Paulo Coelho",
+            "Thumbnail": "The Alchemist.png",
+            "Genre": "Adventure",
+            "Publisher": "Bloomsbury Publishing(UK)",
+            "Description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic and subjugate all wizards and Muggles (non-magical people).",
+            "link": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice?ac=1&from_search=true&qid=qvieLlISY0&rank=2"
+        },
+        {
+            "srno": 6,
+            "Name": "The Shining",
+            "Author": "Stephen King",
+            "Thumbnail": "The Shining.png",
+            "Genre": "Horror",
+            "Publisher": "",
+            "Description": "Listed number one on several lists, The Shining is classic King horror. Jack Torrance and his family head out to the Overlook Hotel as the caretakers over the long, hard winter. What they don’t expect is the mind-bending, sinister things that happen.",
+            "link": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice?ac=1&from_search=true&qid=qvieLlISY0&rank=2"
+        },
+        {
+            "srno": 7,
+            "Name": "Dracula",
+            "Author": "Bram Stoker",
+            "Thumbnail": "Dracula.png",
+            "Genre": "Horror",
+            "Publisher": "",
+            "Description": "If you haven’t read the original Dracula that started it all, read it today. Jonathan Harker goes to Transylvania to help Count Dracula purchase a London house. He discovers a lot of really horrific things and the horror spreads to England.",
+            "link": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice?ac=1&from_search=true&qid=qvieLlISY0&rank=2"
+        },
+        {
+            "srno": 8,
+            "Name": "The Haunting of Hill House",
+            "Author": "Shirley Jackson",
+            "Thumbnail": "The Haunting of Hill House.png",
+            "Genre": "Horror",
+            "Publisher": "",
+            "Description": "Haunted houses are a dime a dozen in the horror genre, but no one does it like Shirley Jackson. A group of ghost hunters gather at Hill House and descend into utter terror when the house starts with inexplicable phenomena.",
+            "link": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice?ac=1&from_search=true&qid=qvieLlISY0&rank=2"
+        },
+        {
+            "srno": 9,
+            "Name": "Rosemary’s Baby",
+            "Author": "Ira Levin",
+            "Thumbnail": "Rosemary’s Baby.png",
+            "Genre": "Horror",
+            "Publisher": "",
+            "Description": "Rosemary and Guy Woodhouse move to an NYC apartment where the neighbors take an unhealthy and disturbing interest in them. By the time Rosemary discovers why, though, it’s too late.",
+            "link": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice?ac=1&from_search=true&qid=qvieLlISY0&rank=2"
+        },
+        {
+            "Name": "One Piece",
+            "Author": "Eiichiro Oda",
+            "Pubisher": "Eiichiro Oda",
+            "Description": "We've looked at different ways to append a file to a form, either as a Buffer or a Stream. Below is a complete example that reads a file from disk into a Buffer and uploads it to an external API with axios",
+            "Genre": "Adventure",
+            "srno": 10,
+            "Thumbnail": "One Piece.jpg"
+        },
+        {
+            "Name": "Attack  on titan",
+            "Author": "Hajime Isayama",
+            "Pubisher": "Hajime Isayama",
+            "Description": "ttack on Titan (Japanese: 進撃の巨人, Hepburn: Shingeki no Kyojin, lit. 'The Attack Titan') is a Japanese manga series written and illustrated by Hajime Isayama. It is set in a world where humanity is forced to live in cities surrounded by three enormous walls that protect them from gigantic man-eating humanoids referred to as Titans; the story follows Eren Yeager, who vows to exterminate the Titans after they bring about the destruction of his hometown and the death of his mother. Attack on Titan was serialized in Kodansha's monthly shōnen manga magazine Bessatsu Shōnen Magazine from September 2009 to April 2021, with its chapters collected in 34 tankōbon volumes.\r\n\r\nAn anime television series was produced by Wit Studio (seasons 1–3) and MAPPA (season 4). A 25-episode first season was broadcast from April to September 2013, followed by a 12-episode second season broadcast from April to June 2017. A 22-episode third season was broadcast in two parts, with the first 12 episodes airing from July to October 2018 and the last 10 episodes airing from April to July 2019. A fourth and final season premiered in December 2020, airing 16 episodes in its first part. A second part consisting of 12 episodes aired from January to April 2022, and a third and final part will premiere in 2023.",
+            "Genre": "Shonen",
+            "srno": 11,
+            "Thumbnail": "Attack  on titan.jpg"
+        },
+        {
+            "Name": "Life of pi",
+            "Author": "Yann Martel",
+            "Pubisher": "Cananda Com",
+            "Description": "Life of Pi is a Canadian philosophical novel by Yann Martel published in 2001. The protagonist is Piscine Molitor \"Pi\" Patel, an Indian boy from Pondicherry, India who explores issues of spirituality and metaphysics from an early age. He survives 227 days after a shipwreck while stranded on a lifeboat in the Pacific Ocean with a Bengal tiger which raises questions about the nature of reality and how it is perceived and told.\r\n\r\nThe novel has sold more than ten million copies worldwide.[1] It was rejected by at least 5 London publishing houses[2] before being accepted by Knopf Canada, which published it in September 2001. The UK edition won the Man Booker Prize the following year.",
+            "Genre": "Fantasy",
+            "srno": 12,
+            "Thumbnail": "Life of pi.jpg"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+[
+    {
+        "postId": 1,
+        "email": "xyz1@gmail",
+        "password": "xyz"
+    },
+    {
+        "postId": 2,
+        "email": "xyz2@gmail",
+        "password": "xyz"
+    },
+    {
+        "postId": 3,
+        "email": "xyz3@gmail",
+        "password": "xyz"
+    },
+    {
+        "postId": 4,
+        "email": "xyz4@gmail",
+        "password": "xyz"
+    },
+    {
+        "postId": 5,
+        "email": "xyz5@gmail",
+        "password": "xyz"
+    },
+    {
+        "postId": 6,
+        "email": "xyz6@gmail",
+        "password": "xyz"
+    },
+    {
+        "postId": 7,
+        "email": "xyz7@gmail",
+        "password": "xyz"
+    },
+    {
+        "postId": 8,
+        "email": "xyz8@gmail",
+        "password": "xyz"
+    },
+    {
+        "postId": 9,
+        "email": "xyz9@gmail",
+        "password": "xyz"
+    },
+    {
+        "postId": 10,
+        "email": "xyz10@gmail",
+        "password": "xyz"
+    },
+    {
+        "postId": 11,
+        "email": "xyz11@gmail",
+        "password": "xyz"
+    },
+    {
+        "postId": 12,
+        "email": "xyz12@gmail",
+        "password": "xyz"
+    },
+    {
+        "postId": 13,
+        "email": "xyz13@gmail",
+        "password": "xyz"
+    },
+    {
+        "postId": 14,
+        "email": "xyz14@gmail",
+        "password": "xyz"
+    },
+    {
+        "postId": 15,
+        "email": "xyz10@gmail",
+        "password": "xyc"
+    },
+    {
+        "postId": 16,
+        "email": "xyz10@gmail",
+        "password": "xyc"
+    }
+]
