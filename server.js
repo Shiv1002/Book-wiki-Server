@@ -71,11 +71,10 @@ app.use('/user', (req, res, next) => {
   next()
 })
 
-app.get('/user', (req, res) => {
-  // alert("Please enter your name.");
-  res.send('USER')
+app.get('/',(req,res)=>{
+  res.send("Book-wiki-server is online!")
 })
-
+  
 
 
 
