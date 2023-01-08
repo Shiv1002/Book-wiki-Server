@@ -160,7 +160,7 @@ app.post("/api/books", upload.single('Image'), (req, res) => {
       console.log('Configuration saved successfully.')
     })
     res.status(200).send("Data configured!!!")
-  } 
+  }else{
     console.log("Erroe ocurred while configuring data")
     console.log("Data is Empty!!!")
   }
