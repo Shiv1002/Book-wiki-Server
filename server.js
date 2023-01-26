@@ -71,7 +71,7 @@ app.use('/user', (req, res, next) => {
   next()
 })
 
-app.get('/',(req,res)=>{
+app.use('/',(req,res)=>{
   res.send("Book-wiki-server is online!")
 })
   
